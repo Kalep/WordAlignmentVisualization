@@ -1,0 +1,4 @@
+1. Description
+This is a simple tool for word alignment visualization .
+2. Input 
+Input should be the format of GIZA++ output format(not compact).
